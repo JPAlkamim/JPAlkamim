@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Alkamim</h1>
 <h3 align="center">Forever Learner from Maringá</h3>
 
+- 💬 Ask me about **Python, Machine Learning, HTML, CSS**
+
 - 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS**
 
 - ⚡ Fun fact **In love with Board Games**
