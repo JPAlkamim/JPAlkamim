@@ -7,11 +7,6 @@
 
 - ⚡ Fun fact **In love with Board Games**
 
-<div align="center">
-  <a href="https://github.com/JPAlkamim">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPAlkamim&layout=compact&langs_count=7&theme=omni"/>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao-pedro-alkamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-pedro-alkamim" height="30" width="40" /></a>
