@@ -7,6 +7,10 @@
 
 - ⚡ Fun fact **In love with Board Games**
 
+<div align="center">
+  <a href="https://github.com/JPAlkamim">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPAlkamim&layout=compact&langs_count=7&theme=omni"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
