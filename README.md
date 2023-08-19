@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/JPAlkamim">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Brumassio&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumassio&layout=compact&langs_count=7&theme=omni"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JPAlkamim&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPAlkamim&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
