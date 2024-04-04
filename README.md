@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Alkamim</h1>
 <h3 align="center">Forever Learner from Maringá, Brazil</h3>
 
-- 💬 Ask me about **React/React Native, TypeScript, Python, Machine Learning**
+- 💬 Ask me about **React/React Native, Java, Python, Machine Learning**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, ReactJS, React Native, Expo**
+- 🌱 I’m currently learning **Springboot, React, Angular**
 
 - ⚡ Fun fact **In love with Board Games**
 
